@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T23:57:30.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-HSgpiO2AKleV7elk_If" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T22:47:18.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VitpvqQESC9polaKfA3g" version="21.8.0" type="github">
   <diagram name="Página-1" id="r6bJj1AHxocIJLyuA_bQ">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,43 +17,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="130" width="40" height="100" as="geometry" />
+          <mxGeometry x="80" y="255" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ATfP_TEIRzoJEn-5p97k-6" value="CDU03-&lt;br&gt;Agenda um horário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="150" width="100" height="50" as="geometry" />
+        <mxCell id="ATfP_TEIRzoJEn-5p97k-6" value="CDU03-&lt;br&gt;Abre um chamado" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="275" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-10" value="CDU01- Cadastrar" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="10" width="100" height="50" as="geometry" />
+          <mxGeometry x="364" y="135" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ATfP_TEIRzoJEn-5p97k-20" target="ATfP_TEIRzoJEn-5p97k-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-20" value="Consultor N1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="130" width="40" height="100" as="geometry" />
+          <mxGeometry x="670" y="255" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-22" value="CDU04-&lt;br&gt;Envia o Orçamento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="220" width="100" height="50" as="geometry" />
+          <mxGeometry x="364" y="345" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="ATfP_TEIRzoJEn-5p97k-29" target="ATfP_TEIRzoJEn-5p97k-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-29" value="CDU02&lt;br&gt;Logar" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="80" width="100" height="50" as="geometry" />
+          <mxGeometry x="364" y="205" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-31" value="CDU05-&lt;br&gt;Realiza o Pagamento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="290" width="100" height="50" as="geometry" />
+          <mxGeometry x="364" y="415" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ATfP_TEIRzoJEn-5p97k-33" target="ATfP_TEIRzoJEn-5p97k-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-33" value="Consultor N2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="380" width="40" height="100" as="geometry" />
+          <mxGeometry x="670" y="505" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="ATfP_TEIRzoJEn-5p97k-34" target="ATfP_TEIRzoJEn-5p97k-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-34" value="CDU06-&lt;br&gt;Recebe a Tarefa" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="390" width="100" height="50" as="geometry" />
+          <mxGeometry x="364" y="515" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ATfP_TEIRzoJEn-5p97k-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="ATfP_TEIRzoJEn-5p97k-36" target="ATfP_TEIRzoJEn-5p97k-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,8 +61,14 @@
         <mxCell id="ATfP_TEIRzoJEn-5p97k-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="ATfP_TEIRzoJEn-5p97k-36" target="ATfP_TEIRzoJEn-5p97k-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ATfP_TEIRzoJEn-5p97k-36" value="CDU07-&lt;br&gt;Pede Correção" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="460" width="100" height="50" as="geometry" />
+        <mxCell id="ATfP_TEIRzoJEn-5p97k-36" value="CDU07-&lt;br&gt;Solicita correção" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="585" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UrzZESODVDNxFiYDTUCj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#241F1F;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196" y="73" width="445" height="596" as="geometry" />
+        </mxCell>
+        <mxCell id="UrzZESODVDNxFiYDTUCj-3" value="Sistema Alexa Home Solutions" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=2;perimeterSpacing=6;" vertex="1" parent="1">
+          <mxGeometry x="196" y="73" width="177" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
