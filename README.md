@@ -8,7 +8,7 @@
 
 <!-- SOBRE -->
 
-<h2 align="center">Sobre</h2>
+<h1 align="center">Sobre</h1>
 
   
 A AlexaHome Solutions tem como objetivo implementar a mais nova tecnologia dentro de suas moradias.
