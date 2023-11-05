@@ -1,7 +1,7 @@
 ## CC5511 - ENGENHARIA DE SOFTWARE - CENTRO UNIVERSITÁRIO FEI
 
 <p align="center">
-  <img alt="Logo" align="center" src ="https://github.com/Mazzaro0/AlexaHome_Solutions/blob/main/alexahome%20solution.png/A-SClean/blob/main/image/alexahome solution.png" width="750" height="600"></img>
+  <img alt="Logo" align="center" src ="https://github.com/Mazzaro0/AlexaHome_Solutions/blob/main/alexahome%20solution.png" width="750" height="600"></img>
 <p>
 
 <!-- INTRODUCAO -->
