@@ -11,11 +11,13 @@
 <h1 align="center">Sobre</h1>
 
 
- <center> A AlexaHome Solutions tem como objetivo implementar a mais nova tecnologia dentro de suas moradias.
+<span style="text-align:center">
+A AlexaHome Solutions tem como objetivo implementar a mais nova tecnologia dentro de suas moradias.
 
 A empresa tem foco em facilitar o dia a dia do cliente, dessa forma, o objetivo da Alexa é permitir que as pessoas possam usar a inteligência artificial por voz nas mais variadas atividades com praticidade e simplicidade, devolvendo a elas o que têm de mais valioso: o tempo!
 
-Para usufruir do aplicativo, basta baixá-lo e abrir um chamado que será atendido o mais rápido possível.</center>
+Para usufruir do aplicativo, basta baixá-lo e abrir um chamado que será atendido o mais rápido possível.<
+</span>
 
 
 
