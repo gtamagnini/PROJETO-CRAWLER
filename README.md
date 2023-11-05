@@ -14,7 +14,7 @@ A empresa tem foco em facilitar o dia a dia do cliente, dessa forma, o objetivo 
 Para usufruir do aplicativo, basta baixá-lo e abrir um chamado que será atendido o mais rápido possível.
 
 <p align="center">
-  <img alt="Proto" align="center" src ="https://github.com/MuriloGomesMunhoz/A-SClean/blob/main/image/prototype.png" width="350" height="500"></img>
+  <img alt="Proto" align="center" src ="https://github.com/Mazzaro0/AlexaHome_Solutions/blob/main/APP.png" width="350" height="500"></img>
 <p>
 
 ***
