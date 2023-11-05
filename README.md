@@ -21,8 +21,7 @@ Para usufruir do aplicativo, basta baixá-lo e abrir um chamado que será atendi
 
 <!-- AAUTORES -->
 ## Autores 👨‍💻
-| <img src="https://avatars.githubusercontent.com/u/63318165?v=4" alt="Thales" width="150"/> | <img src="https://avatars.githubusercontent.com/u/69048604?v=4" alt="Joao" width="150"/> | <img src="https://avatars.githubusercontent.com/u/65295232?v=4" alt="Vitor" width="150"/> | <img src="https://avatars.githubusercontent.com/u/72151253?v=4" alt="Hugo" width="150"/> |
 |:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| [Giovanna Borges Tamagnini]                               | [João Pedro Rosa Cezarino](https://github.com/akajhon)                                      | [Vitor Martins Oliveira]                                   | [Hugo Linhares Oliveira](https://github.com/hugolinhareso)                                       |
+| Giovanna Borges Tamagnini                              | [João Pedro Rosa Cezarino](https://github.com/akajhon)                                      | [Vitor Martins Oliveira]                                   | [Hugo Linhares Oliveira](https://github.com/hugolinhareso)                                       |
 | R.A: 22.221.016-3                                                                     | R.A: 22.120.021-5                                                                           | R.A: 22.120.067-8                                                                          | R.A: 22.120.046-2                                                                          |
 ***
