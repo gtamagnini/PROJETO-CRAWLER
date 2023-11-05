@@ -4,8 +4,8 @@
   <img alt="Logo" align="center" src ="https://github.com/Mazzaro0/AlexaHome_Solutions/blob/main/alexahome%20solution.png" width="700" height="600"></img>
 <p>
 
-<!-- INTRODUCAO -->
-## Introdução 💻
+<!-- SOBRE -->
+## Sobre
   
 A A&SClean tem o objetivo de facilitar a comunicação entre lavanderias especializadas e o cliente que deseja cuidar de seu acessório e/ou tênis.
 
