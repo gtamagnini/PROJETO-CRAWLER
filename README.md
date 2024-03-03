@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Logo" align="center" src ="https://github.com/gtamagnini/Biblioteca-FEI/blob/main/Image/FEI.jpg)https://github.com/gtamagnini/Biblioteca-FEI/blob/main/Image/FEI.jpg" width="700" height="600"></img>
+  <img alt="Logo" align="center" src ="https://github.com/gtamagnini/Biblioteca-FEI/blob/main/Image/FEI.jpg" width="700" height="600"></img>
 <p>
 
 ***
