@@ -1,9 +1,12 @@
 <h1 align="center">
   CC6522 - BIBLIOTECA FEI - CENTRO UNIVERSITÁRIO FEI
 </h1>
-***
+
 <h2>
   Flavio Eugenio de Oliveira Neto - RA 22.221.027-0
+  Gabryel Lourenço Maciel de Morais - RA 22.221.021-3
+  Giovanna Borges Tamagnini - RA 22.221.016-3
+  Thiago Ayres Kimura - RA 22.221.045-2
 </h2>
 
 <p align="center">
