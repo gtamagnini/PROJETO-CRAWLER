@@ -3,9 +3,9 @@
 </h1>
 
 <h4 align="center">Flavio Eugenio de Oliveira Neto - RA 22.221.027-0</h4>
-<h4>Gabryel Lourenço Maciel de Morais - RA 22.221.021-3</h4>
-<h4> Giovanna Borges Tamagnini - RA 22.221.016-3</h4>
-<h4>Thiago Ayres Kimura - RA 22.221.045-2</h4>
+<h4 align="center">Gabryel Lourenço Maciel de Morais - RA 22.221.021-3</h4>
+<h4 align="center"> Giovanna Borges Tamagnini - RA 22.221.016-3</h4>
+<h4 align="center">Thiago Ayres Kimura - RA 22.221.045-2</h4>
  
 
 <p align="center">
