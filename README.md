@@ -1,5 +1,5 @@
 <h1 align="center">
-    CC6522 - PROJETO 2 - CENTRO UNIVERSITÁRIO FEI
+    CC6522 - PROJETO 2 - WEB CRAWLER - CENTRO UNIVERSITÁRIO FEI
 </h1>
 
 <h3 align="center">Flavio Eugenio de Oliveira Neto - RA 22.221.027-0</h3>
